@@ -1,0 +1,23 @@
+[08-Nov-2022 00:15:45 UTC] PHP Warning:  require(permissions/site_hashed.php): failed to open stream: No such file or directory in /home/svxpsycu7xu4/public_html/dashboard.mediosfederales.com/desk/permissions/dataiframe.php on line 10
+[08-Nov-2022 00:15:45 UTC] PHP Warning:  require(permissions/site_hashed.php): failed to open stream: No such file or directory in /home/svxpsycu7xu4/public_html/dashboard.mediosfederales.com/desk/permissions/dataiframe.php on line 10
+[08-Nov-2022 00:15:45 UTC] PHP Fatal error:  require(): Failed opening required 'permissions/site_hashed.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/svxpsycu7xu4/public_html/dashboard.mediosfederales.com/desk/permissions/dataiframe.php on line 10
+[08-Nov-2022 00:16:04 UTC] PHP Warning:  require(permissions/site_hashed.php): failed to open stream: No such file or directory in /home/svxpsycu7xu4/public_html/dashboard.mediosfederales.com/desk/permissions/dataiframe.php on line 10
+[08-Nov-2022 00:16:04 UTC] PHP Warning:  require(permissions/site_hashed.php): failed to open stream: No such file or directory in /home/svxpsycu7xu4/public_html/dashboard.mediosfederales.com/desk/permissions/dataiframe.php on line 10
+[08-Nov-2022 00:16:04 UTC] PHP Fatal error:  require(): Failed opening required 'permissions/site_hashed.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/svxpsycu7xu4/public_html/dashboard.mediosfederales.com/desk/permissions/dataiframe.php on line 10
+[19-Jul-2023 01:57:19 UTC] PHP Warning:  file_get_contents(original_php.php): Failed to open stream: No such file or directory in /home/svxpsycu7xu4/public_html/dashboard.mediosfederales.com/desk/permissions/_update_php.php on line 8
+[31-Jul-2023 23:22:04 UTC] PHP Warning:  Undefined array key "status" in /home/svxpsycu7xu4/public_html/dashboard.mediosfederales.com/desk/permissions/activate.php on line 3
+[31-Jul-2023 23:25:29 UTC] PHP Warning:  require(path_to_phpmailer/PHPMailerAutoload.php): Failed to open stream: No such file or directory in /home/svxpsycu7xu4/public_html/dashboard.mediosfederales.com/desk/permissions/send_email.php on line 3
+[31-Jul-2023 23:25:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path_to_phpmailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/svxpsycu7xu4/public_html/dashboard.mediosfederales.com/desk/permissions/send_email.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/svxpsycu7xu4/public_html/dashboard.mediosfederales.com/desk/permissions/send_email.php on line 3
+[31-Jul-2023 23:25:34 UTC] PHP Warning:  require(path_to_phpmailer/PHPMailerAutoload.php): Failed to open stream: No such file or directory in /home/svxpsycu7xu4/public_html/dashboard.mediosfederales.com/desk/permissions/send_email.php on line 3
+[31-Jul-2023 23:25:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path_to_phpmailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/svxpsycu7xu4/public_html/dashboard.mediosfederales.com/desk/permissions/send_email.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/svxpsycu7xu4/public_html/dashboard.mediosfederales.com/desk/permissions/send_email.php on line 3
+[31-Jul-2023 23:26:50 UTC] PHP Warning:  require(path_to_phpmailer/PHPMailerAutoload.php): Failed to open stream: No such file or directory in /home/svxpsycu7xu4/public_html/dashboard.mediosfederales.com/desk/permissions/send_email.php on line 3
+[31-Jul-2023 23:26:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path_to_phpmailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/svxpsycu7xu4/public_html/dashboard.mediosfederales.com/desk/permissions/send_email.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/svxpsycu7xu4/public_html/dashboard.mediosfederales.com/desk/permissions/send_email.php on line 3

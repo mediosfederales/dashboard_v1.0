@@ -1,0 +1,4 @@
+AuthType Basic 
+AuthName "My Protected Folder" 
+AuthUserFile /home/svxpsycu7xu4/public_html/dashboard.mediosfederales.com/desk/auth/.htpasswd 
+require valid-user

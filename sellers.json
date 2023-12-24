@@ -1,0 +1,617 @@
+{
+    "contact_address": "25 de Mayo 491, Montevideo, UY",
+    "contact_email": "mediosfederales@gmail.com",
+    "sellers": [
+        {
+            "domain": "eleco.com.ar",
+            "is_confidential": 0,
+            "name": "eleco.com.ar",
+            "seller_id": "500636",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "0221.com.ar",
+            "is_confidential": 0,
+            "name": "0221.com.ar",
+            "seller_id": "500832",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "laopinionsemanario.com.ar",
+            "is_confidential": 0,
+            "name": "laopinionsemanario.com.ar",
+            "seller_id": "503107",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "lavozdelpueblo.com.ar",
+            "is_confidential": 0,
+            "name": "lavozdelpueblo.com.ar",
+            "seller_id": "503105",
+            "seller_type": "PUBLISHER"
+        },
+                {
+            "domain": "campo.lavozdelpueblo.com.ar",
+            "is_confidential": 0,
+            "name": "campo.lavozdelpueblo.com.ar",
+            "seller_id": "506836",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "letrap.com.ar",
+            "is_confidential": 0,
+            "name": "letrap.com.ar",
+            "seller_id": "500833",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "diariolamanana.com.ar",
+            "is_confidential": 0,
+            "name": "diariolamanana.com.ar",
+            "seller_id": "498353",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "laopinionpergamino.com.ar",
+            "is_confidential": 0,
+            "name": "laopinionpergamino.com.ar",
+            "seller_id": "506824",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "diarioelargentino.com.ar",
+            "is_confidential": 0,
+            "name": "diarioelargentino.com.ar",
+            "seller_id": "521381",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "diariodebatepregon.com",
+            "is_confidential": 0,
+            "name": "diariodebatepregon.com",
+            "seller_id": "506825",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "radiojunin.com",
+            "is_confidential": 0,
+            "name": "radiojunin.com",
+            "seller_id": "519860",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "laverdadonline.com",
+            "is_confidential": 0,
+            "name": "laverdadonline.com",
+            "seller_id": "503106",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "laverdadmercedes.com",
+            "is_confidential": 0,
+            "name": "laverdadmercedes.com",
+            "seller_id": "519861",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "hoyrojas.com.ar",
+            "is_confidential": 0,
+            "name": "hoyrojas.com.ar",
+            "seller_id": "508840",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "lt7noticias.com",
+            "is_confidential": 0,
+            "name": "lt7noticias.com",
+            "seller_id": "503108",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "zonales.com",
+            "is_confidential": 0,
+            "name": "zonales.com",
+            "seller_id": "506832",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "gestionsindical.com",
+            "is_confidential": 0,
+            "name": "gestionsindical.com",
+            "seller_id": "506833",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "radiosucre.com.ec",
+            "is_confidential": 0,
+            "name": "radiosucre.com.ec",
+            "seller_id": "506829",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "derabonaec.com",
+            "is_confidential": 0,
+            "name": "derabonaec.com",
+            "seller_id": "506830",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "masaireweb.com",
+            "is_confidential": 0,
+            "name": "masaireweb.com",
+            "seller_id": "506831",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "deunanoticias.com",
+            "is_confidential": 0,
+            "name": "deunanoticias.com",
+            "seller_id": "508835",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "diarioformosa.net",
+            "is_confidential": 0,
+            "name": "diarioformosa.net",
+            "seller_id": "506827",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "diarioellibertador.com.ar",
+            "is_confidential": 0,
+            "name": "diarioellibertador.com.ar",
+            "seller_id": "506826",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "diariolavozdelchaco.com",
+            "is_confidential": 0,
+            "name": "diariolavozdelchaco.com",
+            "seller_id": "506828",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "diariolosandes.com.ec",
+            "is_confidential": 0,
+            "name": "diariolosandes.com.ec",
+            "seller_id": "521730",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "elcivismo.com.ar",
+            "is_confidential": 0,
+            "name": "elcivismo.com.ar",
+            "seller_id": "522237",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "elcronista.ar",
+            "is_confidential": 0,
+            "name": "elcronista.ar",
+            "seller_id": "529131",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "lanuevaverdadderauch.com.ar",
+            "is_confidential": 0,
+            "name": "lanuevaverdadderauch.com.ar",
+            "seller_id": "529470",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "eldebate.com.ar",
+            "is_confidential": 0,
+            "name": "eldebate.com.ar",
+            "seller_id": "529604",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "diputadosbsas.com.ar",
+            "is_confidential": 0,
+            "name": "diputadosbsas.com.ar",
+            "seller_id": "529004",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "diariocronica.com.ar",
+            "is_confidential": 0,
+            "name": "diariocronica.com.ar",
+            "seller_id": "538045",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "sprotagonistas.com",
+            "is_confidential": 0,
+            "name": "sprotagonistas.com",
+            "seller_id": "540560",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "compromisodiario.com.ar",
+            "is_confidential": 0,
+            "name": "compromisodiario.com.ar",
+            "seller_id": "542485",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "elorden.com",
+            "is_confidential": 0,
+            "name": "elorden.com",
+            "seller_id": "557945",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "diario-elmensajero.com.ar",
+            "is_confidential": 0,
+            "name": "diario-elmensajero.com.ar",
+            "seller_id": "557955",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "noticiaspehuajo.com.ar",
+            "is_confidential": 0,
+            "name": "noticiaspehuajo.com.ar",
+            "seller_id": "560553",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "delsurdiario.com",
+            "is_confidential": 0,
+            "name": "delsurdiario.com",
+            "seller_id": "563242",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "elsoberanodigital.com.ar",
+            "is_confidential": 0,
+            "name": "elsoberanodigital.com.ar",
+            "seller_id": "563243",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "meridionalradio.cl",
+            "is_confidential": 0,
+            "name": "meridionalradio.cl",
+            "seller_id": "563982",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "cshoy24.com.ar",
+            "is_confidential": 0,
+            "name": "cshoy24.com.ar",
+            "seller_id": "563982",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "cshoy24multimedio.com.ar",
+            "is_confidential": 0,
+            "name": "cshoy24multimedio.com.ar",
+            "seller_id": "565498",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "elojoweb.com.ar",
+            "is_confidential": 0,
+            "name": "elojoweb.com.ar",
+            "seller_id": "565499",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "cronica.com.py",
+            "is_confidential": 0,
+            "name": "cronica.com.py",
+            "seller_id": "571957",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "popular.com.py",
+            "is_confidential": 0,
+            "name": "popular.com.py",
+            "seller_id": "571958",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "lanacion.com.py",
+            "is_confidential": 0,
+            "name": "lanacion.com.py",
+            "seller_id": "598978",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "rivadavia.com.ar",
+            "is_confidential": 0,
+            "name": "rivadavia.com.ar",
+            "seller_id": "571959",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "fmrockandpop.com",
+            "is_confidential": 0,
+            "name": "fmrockandpop.com",
+            "seller_id": "571960",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "metro951.com",
+            "is_confidential": 0,
+            "name": "metro951.com",
+            "seller_id": "571962",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "noticiasargentinas.com",
+            "is_confidential": 0,
+            "name": "noticiasargentinas.com",
+            "seller_id": "571961",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "newsweek.com.ar",
+            "is_confidential": 0,
+            "name": "newsweek.com.ar",
+            "seller_id": "571963",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "bluefm.com.ar",
+            "is_confidential": 0,
+            "name": "bluefm.com.ar",
+            "seller_id": "571964",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "la990.com.ar",
+            "is_confidential": 0,
+            "name": "la990.com.ar",
+            "seller_id": "571965",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "radiocolonia.com",
+            "is_confidential": 0,
+            "name": "radiocolonia.com",
+            "seller_id": "571966",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "elojodelarte.com",
+            "is_confidential": 0,
+            "name": "elojodelarte.com",
+            "seller_id": "571967",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "launoenvivo.com",
+            "is_confidential": 0,
+            "name": "launoenvivo.com",
+            "seller_id": "571968",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "info955.com.ar",
+            "is_confidential": 0,
+            "name": "info955.com.ar",
+            "seller_id": "571969",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "lavozdesanjusto.com.ar",
+            "is_confidential": 0,
+            "name": "lavozdesanjusto.com.ar",
+            "seller_id": "573648",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "pulzo.com",
+            "is_confidential": 0,
+            "name": "pulzo.com",
+            "seller_id": "574184",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "avalanchasport.cl",
+            "is_confidential": 0,
+            "name": "avalanchasport.cl",
+            "seller_id": "575676",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "hoy.com.py",
+            "is_confidential": 0,
+            "name": "hoy.com.py",
+            "seller_id": "576354",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "paralelo32.com.ar",
+            "is_confidential": 0,
+            "name": "paralelo32.com.ar",
+            "seller_id": "578088",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "diarioxeneize.com",
+            "is_confidential": 0,
+            "name": "diarioxeneize.com",
+            "seller_id": "583574",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "cuartopoderbragado.com.ar",
+            "is_confidential": 0,
+            "name": "cuartopoderbragado.com.ar",
+            "seller_id": "581827",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "cuadrocomparativo.org",
+            "is_confidential": 0,
+            "name": "cuadrocomparativo.org",
+            "seller_id": "586047",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "paraninos.org",
+            "is_confidential": 0,
+            "name": "paraninos.org",
+            "seller_id": "586048",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "estusalud.cl",
+            "is_confidential": 0,
+            "name": "estusalud.cl",
+            "seller_id": "576500",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "portalmisiones.com",
+            "is_confidential": 0,
+            "name": "portalmisiones.com",
+            "seller_id": "584144",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "portalmisionesradio.com.ar",
+            "is_confidential": 0,
+            "name": "portalmisionesradio.com.ar",
+            "seller_id": "586531",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "telonpampeano.com.ar",
+            "is_confidential": 0,
+            "name": "telonpampeano.com.ar",
+            "seller_id": "593344",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "radioagricultura.cl",
+            "is_confidential": 0,
+            "name": "radioagricultura.cl",
+            "seller_id": "594442",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "larazondechivilcoy.com.ar",
+            "is_confidential": 0,
+            "name": "larazondechivilcoy.com.ar",
+            "seller_id": "593683",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "berissociudad.com.ar",
+            "is_confidential": 0,
+            "name": "berissociudad.com.ar",
+            "seller_id": "595430",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "chascomusciudad.info",
+            "is_confidential": 0,
+            "name": "chascomusciudad.info",
+            "seller_id": "596911",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "laotracara.info",
+            "is_confidential": 0,
+            "name": "laotracara.info",
+            "seller_id": "596910",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "ramallociudad.com.ar",
+            "is_confidential": 0,
+            "name": "ramallociudad.com.ar",
+            "seller_id": "595441",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "rojasciudad.net",
+            "is_confidential": 0,
+            "name": "rojasciudad.net",
+            "seller_id": "595442",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "saltociudad.com",
+            "is_confidential": 0,
+            "name": "saltociudad.com",
+            "seller_id": "595431",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "horadecierre.org",
+            "is_confidential": 0,
+            "name": "horadecierre.org",
+            "seller_id": "599078",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "portalsanjorge.com.ar",
+            "is_confidential": 0,
+            "name": "portalsanjorge.com.ar",
+            "seller_id": "593345",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "noticiaslasflores.com.ar",
+            "is_confidential": 0,
+            "name": "noticiaslasflores.com.ar",
+            "seller_id": "599079",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "motivar.com.ar",
+            "is_confidential": 0,
+            "name": "motivar.com.ar",
+            "seller_id": "600954",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "arecociudad.com.ar",
+            "is_confidential": 0,
+            "name": "arecociudad.com.ar",
+            "seller_id": "598613",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "arecociudad.com.ar",
+            "is_confidential": 0,
+            "name": "arecociudad.com.ar",
+            "seller_id": "598613",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "pergaminociudad.com.ar",
+            "is_confidential": 0,
+            "name": "pergaminociudad.com.ar",
+            "seller_id": "598614",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "larazondechivilcoy.com.ar",
+            "is_confidential": 0,
+            "name": "larazondechivilcoy.com.ar",
+            "seller_id": "593683",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "4pilares.com.ar",
+            "is_confidential": 0,
+            "name": "4pilares.com.ar",
+            "seller_id": "608501",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "mediosfederales.com",
+            "is_confidential": 0,
+            "name": "mediosfederales.com",
+            "seller_id": "497022",
+            "seller_type": "PUBLISHER"
+        }
+        ]
+}
+
+

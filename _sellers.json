@@ -1,0 +1,11 @@
+{
+    "sellers": [
+        {
+            "domain": "da",
+            "is_confidential": 0,
+            "name": "da",
+            "seller_id": "4343",
+            "seller_type": "PUBLISHER"
+        }
+    ]
+}
